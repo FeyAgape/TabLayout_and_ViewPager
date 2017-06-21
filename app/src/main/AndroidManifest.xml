@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".TabOne" />
+        <activity android:name=".One" />
+        <activity android:name=".Two" />
+        <activity android:name=".Three" />
+        <activity android:name=".Four" />
+        <activity android:name=".Five"></activity>
     </application>
 
 </manifest>
